@@ -10,4 +10,4 @@ Since I have previous knowledge on HTML and CSS wanted to really get comfortable
 
 ## Notion Notes 
 Things are scatterd everywhere gotta organize the notes real soon. 
-https://www.notion.so/JavaScript-Fundamentals-cac696e1d1034ebc90b68333c6cd53fe
+[Javscript notion notes](https://www.notion.so/JavaScript-Fundamentals-cac696e1d1034ebc90b68333c6cd53fe)
