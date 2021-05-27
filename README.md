@@ -4,6 +4,8 @@ Hey guys, thank for you making to my repo. Here I will be posting my codes and n
 
 Since I have previous knowledge on HTML and CSS wanted to really get comfortable with Javascript at first without distracting myself into any frameworks or libraries. And I love javascript personally writing those every syntax feels kinda relaxing somehow. Will update this description soon with more addons and stuff. Also planning to log my daily learnings into Anki.
 
+**Decided to quit the challenge for sometime, will be back again soon with a bang :)** 
+
 
 ## Daily week logs 
 - [Week - 1](https://github.com/ashikshafi08/100daysofJS/blob/main/Week_1/Week_1.md)
